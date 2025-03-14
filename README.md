@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Code Challenge
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578@naver.com)](https://solved.ac/asdf1578@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578)](https://solved.ac/asdf1578/)
 <br>
 ---
 ### SQL Challenge
