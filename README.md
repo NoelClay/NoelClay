@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578@naver.com)](https://solved.ac/asdf1578@naver.com/)
 <br>
 ---
-![HR_SQL_Basic](https://www.hackerrank.com/certificates/ce0762f3fa8f)
+SQL 테스트
+[basic](https://www.hackerrank.com/certificates/ce0762f3fa8f)
