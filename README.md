@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Code Challenge
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578@naver.com)](https://solved.ac/asdf1578@naver.com/)
 <br>
 ---
-SQL 테스트
+### SQL Challenge
 [basic](https://www.hackerrank.com/certificates/ce0762f3fa8f)
+---
