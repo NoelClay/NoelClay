@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <br>
 ---
 ### SQL Challenge
-[basic](https://www.hackerrank.com/certificates/ce0762f3fa8f)
+[basic certificate](https://www.hackerrank.com/certificates/ce0762f3fa8f)
 ---
