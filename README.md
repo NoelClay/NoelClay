@@ -2,18 +2,22 @@
 
 > VR/AR · Full-stack · AI/ML · Systems
 
-**Now:** 42 Gyeongsan `C` `Linux` — CS fundamentals from scratch
+## Now
+
+**Studying [CS Fundamentals](https://github.com/NoelClay/cs-self-learning/tree/translate_kr) and [PBL](https://github.com/NoelClay/common-core) at 42 School Gyeongsan**
+
+[![namykim's 42 stats](https://badge.mediaplus.ma/darkblue/namykim)](https://profile.intra.42.fr/users/namykim)
 
 ---
 
-## Work
+## Experience
 
 | Period | Co. or Ins. | Role | Stack |
 |---|---|---|---|
-| 2025.06–10 | [에듀템](https://www.edutem.net/) | SWE Intern | `WhisperX-LoRA` [`3d-chatbot-POC`](https://github.com/NoelClay/wawa-lipsync) |
-| 2025 | [KORAIA_Proj.](https://github.com/NoelClay/TourAgent) | AI-DX Learner | `Django` `RAG` `LangChain` `APIs(NAVER, Google, KMA)` |
-| 2024 | [KOSA_Proj.](https://github.com/NoelClay/KOSAFIA) | Web-Full-Stack Learner | `Spring Boot` `WebSocket` `React` |
-| 2022.10–2024.06 | [엠라인스튜디오](https://m-line.tv/experience/) | VR Engineer · 5 enterprise apps | `Unreal` `Unity` `C#` `Oculus` `ARCore` |
+| 2025.06–10 | [에듀템](https://www.edutem.net/) | SWE Intern | `WhisperX-LoRA` [`3D-chatbot-PoC`](https://github.com/NoelClay/wawa-lipsync) |
+| 2025 | [한국인공지능협회_bootcamp_finalProj.](https://github.com/NoelClay/TourAgent) | AI-DX Learner | `Django` `RAG` `LangChain` `APIs(NAVER, Google, KMA)` |
+| 2024 | [한국소프트웨어협회_bootcamp_finalProj.](https://github.com/NoelClay/KOSAFIA) | Full-Stack Web Learner | `Spring Boot` `WebSocket` `React` |
+| 2022.10–2024.06 | [엠라인스튜디오](https://m-line.tv/experience/) | VR/AR developer · 5 enterprise apps | `Unreal` `Unity` `C#` `OculusVR` `ARCore` |
 
 ---
 
