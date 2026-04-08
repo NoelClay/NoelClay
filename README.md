@@ -1,83 +1,44 @@
 # Noel Kim
 
-Software developer with a background in VR/AR, AI/ML, and full-stack web.  
-Currently at 42 Gyeongsan, rebuilding from the ground up in C and systems programming.
+> VR/AR · Full-stack · AI/ML · Systems
+
+**Now:** 42 Gyeongsan `C` `Linux` — CS fundamentals from scratch
 
 ---
 
-## Experience
+## Work
 
-**42 Gyeongsan** &nbsp;·&nbsp; Dec 2025 –  
-Peer-based CS curriculum. No standard library, no debugger, no hand-holding.  
-`C` `Linux` `Makefile`  
-→ [NoelClay/common-core](https://github.com/NoelClay/common-core) · libft 100/100
-
----
-
-**에듀템** &nbsp;·&nbsp; Software Developer Intern &nbsp;·&nbsp; Jun 2025 – Oct 2025  
-Bug fixing and AI prototyping at an edtech startup.
-- **3D chatbot PoC** — LangChain + Gemini conversation logic, AWS Polly TTS, lip-sync animation
-- **Whisper LoRA fine-tuning** — Korean-English code-switching, evaluated on WhisperX
-- **Multilingual PDF/OCR pipeline** — data cleanup, DB schema redesign, React UI patches
-- **iOS/iPad audio & UI bugs** — library swap, platform policy compliance refactor
-
-`Python` `LangChain` `WhisperX` `React` `AWS`
-
----
-
-**AI-TOMIC** &nbsp;·&nbsp; TourAgent &nbsp;·&nbsp; 2024  
-Geospatial weather data pipeline for a LangGraph RAG travel recommendation agent.  
-Seoul 120 attractions → KMA grid matching (GeoPandas) → 단기예보 API batch fetch → CSV for RAG context.  
-`Python` `GeoPandas` `LangGraph` `KMA API`  
-→ [NoelClay/TourAgent](https://github.com/NoelClay/TourAgent)
-
----
-
-**KOSAFIA** &nbsp;·&nbsp; Team Project (4 members) &nbsp;·&nbsp; 2024  
-Browser-based multiplayer mafia game. Built the real-time communication layer end-to-end — 146 of 328 commits.
-- Backend: STOMP WebSocket broker, role-based chat isolation (mafia-only channel at night), vote system
-- Frontend: React Context + Hook architecture for socket state, live player list, synchronized timer
-
-`Java` `Spring Boot` `WebSocket (STOMP)` `Redis` `React` `Docker`  
-→ [NoelClay/KOSAFIA](https://github.com/NoelClay/KOSAFIA)
-
----
-
-**엠라인스튜디오** &nbsp;·&nbsp; Virtual Reality Software Engineer &nbsp;·&nbsp; Oct 2022 – Jun 2024  
-5 VR/AR training apps for enterprise and government clients (NDA).
-- VR (Unreal): Oculus interactions, TCP-connected 3-axis simulators and haptic devices, 5-player local multiplayer
-- AR (Unity): Android guided scenario apps with touch UI
-- 5 end-to-end project cycles, from development to on-site deployment
-
-`Unreal Engine` `Unity` `C#` `Oculus SDK` `ARCore`
+| Period | | Role | Stack |
+|---|---|---|---|
+| 2025.06–10 | [에듀템](https://www.edutem.net/) | SWE Intern | `Python` `LangChain` `WhisperX` `React` `AWS` |
+| 2024 | [AI-TOMIC · TourAgent](https://github.com/NoelClay/TourAgent) | Data Pipeline | `Python` `GeoPandas` `LangGraph` `KMA API` |
+| 2024 | [KOSAFIA](https://github.com/NoelClay/KOSAFIA) | Full-stack · 146/328 commits | `Spring Boot` `WebSocket` `Redis` `React` |
+| 2022.10–2024.06 | [엠라인스튜디오](https://m-line.tv/experience/) | VR Engineer · 5 enterprise apps | `Unreal` `Unity` `C#` `Oculus` `ARCore` |
 
 ---
 
 ## Stack
 
-| Domain | Technologies |
-|---|---|
-| AI / ML | Python · LangChain · LangGraph · WhisperX · LoRA fine-tuning · AWS Polly |
-| Backend | Java · Spring Boot · WebSocket (STOMP) · Redis · MySQL |
-| Frontend | React · JavaScript |
-| VR / AR | Unreal Engine · Unity · C# · Oculus SDK · ARCore |
-| Systems | C · Linux · Makefile |
-
----
-
-## Certifications
-
-- 정보처리기사 (Engineer Information Processing)
-- SQLD (SQL Developer)
-- [SQL Basic — HackerRank](https://www.hackerrank.com/certificates/ce0762f3fa8f)
-
----
-
-## Currently
-
-- 42 Gyeongsan PBL — C, systems, algorithms
-- TOEFL · university math (grad school prep)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578)](https://solved.ac/asdf1578/)
+&nbsp;·&nbsp;
+[정보처리기사](https://www.q-net.or.kr/)
+&nbsp;·&nbsp;
+[SQLD](https://www.dataq.or.kr/)
+&nbsp;·&nbsp;
+[SQL Basic](https://www.hackerrank.com/certificates/ce0762f3fa8f)
