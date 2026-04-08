@@ -8,11 +8,11 @@
 
 ## Work
 
-| Period | | Role | Stack |
+| Period | Co. or Ins. | Role | Stack |
 |---|---|---|---|
 | 2025.06–10 | [에듀템](https://www.edutem.net/) | SWE Intern | `PDF-OCR-PARSER` `WhisperX-LoRA` [`3d-chatbot-POC`](https://github.com/NoelClay/wawa-lipsync) |
-| 2025 | [KORAIA_result](https://github.com/NoelClay/TourAgent) | AI-DX | `Django` `RAG` `LangChain` `APIs(NAVER, Google, KMA)` |
-| 2024 | [KOSA_result](https://github.com/NoelClay/KOSAFIA) | Full-stack | `Spring Boot` `WebSocket` `React` |
+| 2025 | [KORAIA_Proj.](https://github.com/NoelClay/TourAgent) | AI-DX Learner | `Django` `RAG` `LangChain` `APIs(NAVER, Google, KMA)` |
+| 2024 | [KOSA_Proj.](https://github.com/NoelClay/KOSAFIA) | Web-Full-Stack Learner | `Spring Boot` `WebSocket` `React` |
 | 2022.10–2024.06 | [엠라인스튜디오](https://m-line.tv/experience/) | VR Engineer · 5 enterprise apps | `Unreal` `Unity` `C#` `Oculus` `ARCore` |
 
 ---
