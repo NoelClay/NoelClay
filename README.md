@@ -36,9 +36,7 @@
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578)](https://solved.ac/asdf1578/)
-&nbsp;·&nbsp;
-[정보처리기사](https://www.q-net.or.kr/)
-&nbsp;·&nbsp;
-[SQLD](https://www.dataq.or.kr/)
-&nbsp;·&nbsp;
-[SQL Basic](https://www.hackerrank.com/certificates/ce0762f3fa8f)
+
+[![정보처리기사](https://img.shields.io/badge/정보처리기사-HRD_Korea-0055A4?style=flat-square&logo=government&logoColor=white)](https://www.q-net.or.kr/)
+[![SQLD](https://img.shields.io/badge/SQLD-K--DATA-003B57?style=flat-square&logo=postgresql&logoColor=white)](https://www.dataq.or.kr/)
+[![SQL Basic](https://img.shields.io/badge/SQL_Basic-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/ce0762f3fa8f)
