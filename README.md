@@ -10,7 +10,7 @@
 
 | Period | | Role | Stack |
 |---|---|---|---|
-| 2025.06–10 | [에듀템](https://www.edutem.net/) | SWE Intern | `Python` `LangChain` `WhisperX` `React` `AWS` |
+| 2025.06–10 | [에듀템](https://www.edutem.net/) | SWE Intern · [3D chatbot PoC](https://github.com/NoelClay/wawa-lipsync) | `Python` `LangChain` `WhisperX` `React` `AWS` |
 | 2024 | [AI-TOMIC · TourAgent](https://github.com/NoelClay/TourAgent) | Data Pipeline | `Python` `GeoPandas` `LangGraph` `KMA API` |
 | 2024 | [KOSAFIA](https://github.com/NoelClay/KOSAFIA) | Full-stack · 146/328 commits | `Spring Boot` `WebSocket` `Redis` `React` |
 | 2022.10–2024.06 | [엠라인스튜디오](https://m-line.tv/experience/) | VR Engineer · 5 enterprise apps | `Unreal` `Unity` `C#` `Oculus` `ARCore` |
