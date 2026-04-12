@@ -2,9 +2,10 @@
 
 > VR/AR · Full-stack · AI/ML · Systems
 
-## Now
+## Now: 42 School 
+`2025.12~2027.12`
 
-**Studying [CS Fundamentals](https://github.com/NoelClay/cs-self-learning/tree/translate_kr) and [PBL](https://github.com/NoelClay/common-core) at 42 School Gyeongsan**
+**Studying [CS Fundamentals](https://github.com/NoelClay/cs-self-learning/tree/translate_kr), [42schoolPBL](https://github.com/NoelClay/common-core), and [Program](https://github.com/NoelClay/public_project_allign) at 42 School Gyeongsan**
 
 [![namykim's 42 stats](https://badge.mediaplus.ma/darkblue/namykim?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/namykim)
 
