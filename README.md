@@ -47,4 +47,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/namykim?theme=light&font=Ubuntu%20Mono&ext=heatmap)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578)](https://solved.ac/asdf1578/)
-[![SWEAStats](https://swea-card.vercel.app/api?id={asdf1578@naver.com})](https://swexpertacademy.com/main/identity/anonymous/myPage.do)
+[![SWEAStats](https://swea-card.vercel.app/api?id={AYmgivf6M24DFAUe})](https://swexpertacademy.com/main/identity/anonymous/myPage.do)
