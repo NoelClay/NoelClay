@@ -45,6 +45,13 @@
 [![SQLD](https://img.shields.io/badge/SQLD-K--DATA-003B57?style=flat-square&logo=postgresql&logoColor=white)](www.linkedin.com/in/noel-kim-33782b2b4)
 [![SQL Basic](https://img.shields.io/badge/SQL_Basic-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/ce0762f3fa8f)
 
+<details>
+  <summary></summary>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/namykim?theme=light&font=Ubuntu%20Mono&ext=heatmap)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdf1578)](https://solved.ac/asdf1578/)
 [![SWEAStats](https://swea-card.vercel.app/api?id={AYmgivf6M24DFAUe})](https://swexpertacademy.com/main/identity/anonymous/myPage.do)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username={핸들})](https://codeforces.com/profile/{핸들})
+[![AtCoder Stats](https://atcoder-readme-stats.vercel.app/api/stats?username={핸들})](https://atcoder.jp/users/{핸들})
+[![GFG Stats](https://gfgstatscard.vercel.app/{본인ID})](https://www.geeksforgeeks.org/user/{본인ID}/)
+[![HackerRank Badges](https://hackerrank-badges.vercel.app/api?username={본인ID})](https://www.hackerrank.com/{본인ID})
+</details>
