@@ -54,4 +54,8 @@
 [![AtCoder Stats](https://atcoder-readme-stats.vercel.app/api/stats?username={핸들})](https://atcoder.jp/users/{핸들})
 [![GFG Stats](https://gfgstatscard.vercel.app/{본인ID})](https://www.geeksforgeeks.org/user/{본인ID}/)
 [![HackerRank Badges](https://hackerrank-badges.vercel.app/api?username={본인ID})](https://www.hackerrank.com/{본인ID})
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=본인_아이디&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=본인_아이디&style=midnight)
+![Exercism C Solutions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fexercism.org%2Fapi%2Fv2%2Fprofiles%2F본인_아이디%2Fsolutions%3Ftrack_slug%3Dc&query=%24.results.length&prefix=C%20Track%20Solved%3A%20&style=for-the-badge&label=Exercism&color=2a4b8d)
+  
 </details>
